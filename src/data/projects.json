@@ -1,0 +1,30 @@
+
+[
+  
+  {
+    "id": 1,
+    "title": "Pastelería Mil Sabores",
+    "description": "Proyecto frontend de una pastelería, orientado a presentar sus productos y ofrecer una experiencia visual atractiva para los usuarios.",
+    "image": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?auto=format&fit=crop&w=900&q=80",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "link": "https://github.com/LBV00/PasteleriaMilSabores-Frontend.git",
+    "linkLabel": "Ver repositorio"
+  },
+  {
+    "id": 2,
+    "title": "BarberShop — Sistema de gestión",
+    "description": "Proyecto Fullstack para una barbería, centrado en la presentación del negocio y en las funcionalidades de su aplicación web.",
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=900&q=80",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Bootstrap"
+    ],
+    "link": "https://github.com/LBV00/TrabajoFullstack1-barbershop.git",
+    "linkLabel": "Ver repositorio"
+  }
+]

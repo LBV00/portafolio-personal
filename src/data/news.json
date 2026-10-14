@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "React y la creación de interfaces reutilizables",
+    "date": "2026-09-20",
+    "content": "Los componentes permiten dividir una interfaz en piezas pequeñas, reutilizables y más sencillas de mantener. Las props facilitan compartir datos entre componentes."
+  },
+  {
+    "id": 2,
+    "title": "Por qué automatizar las pruebas del frontend",
+    "date": "2026-10-01",
+    "content": "Las pruebas unitarias ayudan a detectar errores pronto y a comprobar que los componentes conservan su comportamiento cuando se realizan cambios en el código."
+  }
+]
